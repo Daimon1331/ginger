@@ -10075,6 +10075,18 @@ img, svg {
   }
 }
 
+h1 {
+  font-family: "NeueMachina-Regular", sans-serif;
+  font-size: 108px;
+  line-height: 110%;
+}
+@media screen and (max-width: 1030px) {
+  h1 {
+    font-size: 57px;
+    line-height: 110%;
+  }
+}
+
 h2 {
   font-family: "NeueMachina-Regular", sans-serif;
   font-size: 108px;
@@ -10115,6 +10127,7 @@ header {
   position: fixed;
   width: 100%;
   z-index: 999;
+  transition: 0.5s;
 }
 header .margin {
   padding: 35px 0;
@@ -10785,7 +10798,7 @@ header .nav a {
   padding-bottom: 100px;
   border-bottom: 2px solid white;
 }
-.training2 h2 {
+.training2 h1 {
   font-family: "Noah-Bold", sans-serif;
   font-size: 30px;
   line-height: 50px;

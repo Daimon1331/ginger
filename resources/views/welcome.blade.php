@@ -71,7 +71,7 @@
                 <a href="#appointment">ЕЩЁ МАСТЕР-КЛАССЫ</a>
                 <a href="#training2">О НАС</a>
             </div>
-            <img class="menu-button" src="/img/hamburger.svg">
+            <img alt="menu" class="menu-button" src="/img/hamburger.svg">
 
         </div>
         </div>
@@ -79,7 +79,7 @@
     </header>
     <div class="mob-nav">
         <div class="margin">
-        <div class="d-flex justify-content-between"><a class="logo-nav" href="/">GINGER</a><img class="menu-cross" src="/img/close.svg"></div>
+        <div class="d-flex justify-content-between"><a class="logo-nav" href="/">GINGER</a><img alt="close" class="menu-cross" src="/img/close.svg"></div>
         <div class="d-flex flex-column align-items-center nav">
             <a href="#big-master-class">МК ПРИЛОЖИ ТРЕНД</a>
             <a href="#appointment">ЕЩЁ МАСТЕР-КЛАССЫ</a>
@@ -88,12 +88,12 @@
         </div>
     </div>
     <section class="big-master-class" id="big-master-class">
-        <img class="tape3" src="/img/tape3.png">
-        <img class="tape2" src="/img/tape2.png">
+        <img alt="tape" class="tape3" src="/img/tape3.png">
+        <img alt="tape" class="tape2" src="/img/tape2.png">
         <div class="margin">
-            <img class="tape1" src="/img/tape1.png">
-            <img class="staryellow" src="/img/staryellow.png">
-            <img class="starpink" src="/img/starpink.png">
+            <img alt="tape" class="tape1" src="/img/tape1.png">
+            <img alt="star" class="staryellow" src="/img/staryellow.png">
+            <img alt="star" class="starpink" src="/img/starpink.png">
 
             <div class="d-flex mc-flex">
                 <div class="d-flex flex-column master-class-description">
@@ -101,7 +101,7 @@
                     <h3>Мастер-класс</h3>
                         <div class="d-flex flex-column attach-trend">
                         <h2>ПРИЛОЖИ</h2>
-                            <h2>ТР<img src="/img/e.png">НД</h2>
+                            <h2>ТР<img alt="E" src="/img/e.png">НД</h2>
                         </div>
                         <h4>Научим разбираться в трендах
                             <br>и применять их в своих проектах.</h4>
@@ -123,7 +123,7 @@
                             <br>Вам остаётся только
                             словить этот вайб на нашем мастер-классе «Приложи тренд» и показать своим клиентам, что вы с ними заодно.
                         </h4>
-                        <div><img src="/img/photo1.jpg"></div>
+                        <div><img alt="TrendWatching" src="/img/photo1.jpg"></div>
                     </div>
                     <div class="d-flex flex-column program-mc">
                         <h3>Программа МК:</h3>
@@ -149,7 +149,7 @@
                     </div>
                 </div>
                 <div class="d-flex flex-column trendwatching">
-                    <img src="/img/photo1.jpg">
+                    <img alt="TrendWatching" src="/img/photo1.jpg">
                     <h4>Трендвотчинг — не главный скилл для предпринимателей,
                         маркетологов или smm-специалистов. Но очень важный!
                         <br>
@@ -169,7 +169,7 @@
             <div class="d-flex training-options">
                 <div class="d-flex flex-column mr50">
                     <div class="d-flex option-block align-items-center mb50">
-                        <img src="/img/ico1.png">
+                        <img alt="ico" src="/img/ico1.png">
                         <div class="d-flex flex-column">
                             <h6>Ты предприниматель
                                 <br>или эксперт.</h6>
@@ -177,7 +177,7 @@
                         </div>
                     </div>
                     <div class="d-flex option-block align-items-center">
-                        <img src="/img/ico2.png">
+                        <img alt="ico" src="/img/ico2.png">
                         <div class="d-flex flex-column">
                             <h6>ты SMM-специалист.</h6>
                             <p>Ты хочешь прокачивать скиллы и узнавать новое,
@@ -187,7 +187,7 @@
                 </div>
                 <div class="d-flex flex-column">
                     <div class="d-flex option-block align-items-center mb50">
-                        <img src="/img/ico3.png">
+                        <img alt="ico" src="/img/ico3.png">
                         <div class="d-flex flex-column">
                             <h6>ты маркетолог
                                 <br>в компании.</h6>
@@ -195,7 +195,7 @@
                         </div>
                     </div>
                     <div class="d-flex option-block align-items-center">
-                        <img src="/img/ico4.png">
+                        <img alt="ico" src="/img/ico4.png">
                         <div class="d-flex flex-column">
                             <h6>ты трендхантер.</h6>
                             <p>Тебе интересно, что происходит вокруг и ты не против
@@ -209,11 +209,11 @@
     <section class="appointment" id="appointment">
         <div class="margin">
             <div class="d-flex justify-content-between mb100">
-                <img src="/img/post1.jpg">
+                <img alt="Influence-маркетинг" src="/img/post1.jpg">
             <div class="d-flex flex-column appointment-min">
                 <h2>Мастер-класс по осознанному
                     <br>Influence-маркетингу</h2>
-                <img src="/img/post1.jpg">
+                <img alt="Influence-маркетинг" src="/img/post1.jpg">
                     <p>Мы развиваем инфлюенс-маркетинг в Беларуси и делаем
                         это осознанно.
                         <br>
@@ -226,11 +226,11 @@
             </div>
             </div>
             <div class="d-flex justify-content-between rewerse">
-                <img src="/img/post2.jpg">
+                <img alt="Strategist 007" src="/img/post2.jpg">
                 <div class="d-flex flex-column appointment-min">
                     <h2>Strategist 007:
                         <br>мастер-класс по стратегии</h2>
-                    <img src="/img/post2.jpg">
+                    <img alt="Strategist 007" src="/img/post2.jpg">
                     <p class="pb18">Ты узнаешь, как создавать рабочие стратегии для своих или
                         <br>клиентских проектов в SMM. И только потом контент,
                         <br>вовлечение, алгоритмы, продажи.
@@ -248,7 +248,7 @@
     <section class="training2" id="training2">
         <div class="margin">
             <div class="d-flex flex-column">
-                <h2>Обучение от команды GINGER</h2>
+                <h1>Обучение от команды GINGER</h1>
                 <p>Это опыт практиков и концентрат пользы. Ещё вчера мы
                     протестировали гипотезы в новом проекте, уже сегодня вы
                     увидите результаты в наших мастер-классах. Конечно, мы
@@ -284,12 +284,12 @@
                     <p>График работы
                         <br>с 10.00 до 19.00</p>
                     <div class="d-flex">
-                        <a target="_blank" href=https://www.instagram.com/ginger.by/?hl=ru"><img src="/img/inst.png"></a>
-                        <a target="_blank" href="mailto:gingerbelarus@gmail.com"><img src="/img/mail.png"></a>
+                        <a target="_blank" href=https://www.instagram.com/ginger.by/?hl=ru"><img alt="instagram" src="/img/inst.png"></a>
+                        <a target="_blank" href="mailto:gingerbelarus@gmail.com"><img alt="mail" src="/img/mail.png"></a>
                     </div>
                 </div>
                 <div class="d-flex flex-column info-card">
-                    <img src="/img/card.png">
+                    <img alt="card" src="/img/card.png">
                     <p>Оплата банковскими картами осуществляется через ЗАО «Альфа-Банк». К оплате принимаются карты
                         <br>международных платежных систем VISA, MasterCard, платежной системы БЕЛКАРТ. Оплату также можно
                         <br>совершить, посредством сервиса Apple Pay.</p>
